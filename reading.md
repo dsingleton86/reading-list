@@ -9,7 +9,7 @@
 1. _The Little Book of Hygge: The Danish Way to Live Well_ by Meik Wiking; 289pp (2018-08-06)
 1. _Solitary Fitness_ by Charles Bronson; 261pp (2018-08-07)
 1. _Fat Chance+_ by Nick Spalding; 288pp (2018-08-11)
-1. _The Girl Who Circumnavigated Fairyland in a Shop of Her Own Making+_ (Fairyland, #1) by Catherynne M. Valente; 247pp (2018-08-16)
+1. _The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making+_ (Fairyland, #1) by Catherynne M. Valente; 247pp (2018-08-16)
 1. _Origin+_ (Robert Langdon, #5) by Dan Brown; 480pp (2018-08-20)
 1. _We Are Legion (We are Bob)+_ (Bobiverse, #1) by Dennis E. Taylor; 383pp (2018-08-25)
 1. _For We Are Many+_ (Bobiverse, #2) by Dennis E. Taylor; 311pp (2018-10-07)
