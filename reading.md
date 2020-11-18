@@ -16,3 +16,8 @@
 1. _The Tales of Beedle the Bard_ by J.K. Rowling; 109pp (2018-12-06)
 1. _Fantastic Beasts and Where to Find Them_ by J.K. Rowling; 123pp (2018-12-07)
 1. _Get Your Sh*t Together: How to Stop Worrying about What You Should Do So You Can Finish What You Need to Do and Start Doing What You Want to Do (No F*cks Given Guide)_ by Sarah Knight; 304pp (2018-12-24)
+1. _The Alchemist_ by Paulo Coelho; 177pp (2019-01-01)
+1. _All These Worlds+_ by Dennis E. Taylor; 260pp (2019-01-02)
+1. _The Food Medic+_ by Hazel Wallace; 256pp (2019-01-06)
+1. _Norse Mythology+_ by Neil Gaiman; 260pp (2019-01-09)
+1. _You're Never Weird on the Internet@_ by Felicia Day; 06:17 (2019-02-02)
