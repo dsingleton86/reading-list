@@ -46,7 +46,7 @@
 1. _A Christmas Carol+_ by Charles Dickens; 104pp (2019-12-23)
 1. _Your Perfect Year+_ by Charlotte Lucas; 439pp (2020-01-03)
 1. **_The Likely Resolutions of Oliver Clock+_** by Jane Riley; 308pp (2020-01-27)
-1. **_Bitcon Billionaries: A True Story of Genius, Betrayal and Redemption+_** by Ben Mezrich; 384pp (2020-02-22)
+1. **_Bitcoin Billionaries: A True Story of Genius, Betrayal and Redemption+_** by Ben Mezrich; 384pp (2020-02-22)
 1. _The Hunting Party+_ by Lucy Foley; 400pp (2020-03-11)
 1. _Own Your Weird: An Oddly Effective Way for Finding Happiness in Work, Life and Love+_ by Jason Zook; 240pp (2020-04-12)
 1. _Life... With No Breaks: A Laugh Out Loud Comedy Memoir+_ (Life..., #1) by Nick Spalding; 168pp (2020-04-23)
