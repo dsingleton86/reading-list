@@ -41,7 +41,7 @@
 1. _Emergency Skin+_ by N.K. Jemisin; 33pp (2019-11-13)
 1. _The Last Conversation+_ by Paul Tremblay; 56pp (2019-11-13)
 1. _Randomize+_ by Andy Weir; 28pp (2019-11-13)
-1. _You Have Arritve at Your Destination+_ by Amor Towles; 46pp (2019-11-13)
+1. _You Have Arrived at Your Destination+_ by Amor Towles; 46pp (2019-11-13)
 1. _The Singularity Trap+_ by Dennis E. Taylor; 422pp (2019-11-26)
 1. _A Christmas Carol+_ by Charles Dickens; 104pp (2019-12-23)
 1. _Your Perfect Year+_ by Charlotte Lucas; 439pp (2020-01-03)
