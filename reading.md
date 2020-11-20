@@ -28,7 +28,7 @@
 1. **_Ready Player One@^_ (Ready Player One, #1)** by Ernest Cline; 15:40 (2019-06-12)
 1. _The Four: The Hidden DNA of Amazon, Apple, Facebook and Google@_ by Scott Galloway; 08:32 (2019-06-20)
 1. _Bricking It+_ by Nick Spalding; 290pp (2019-07-24)
-1. _Harry Potter and the Philosopher's Stone@^_ (Harry Potter, #1) by J.K. Rowling; 09:33 (2019-08-18)
+1. **_Harry Potter and the Philosopher's Stone@^_ (Harry Potter, #1)** by J.K. Rowling; 09:33 (2019-08-18)
 1. _Harry Potter and the Chamber of Secrets@^_ (Harry Potter, #2) by J.K. Rowling; 11:05 (2019-08-22)
 1. **_Dry Hard+_** by Nick Spalding; 293pp (2019-09-03)
 1. _Dumped, Actually+_ by Nick Spalding; 309pp (2019-09-05)
