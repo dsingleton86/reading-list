@@ -68,3 +68,4 @@
 1. _The Miracle Morning: The 6 Habits That Will Transform Your Life Before 8AM+_ by Hal Elrod; 225pp (2020-11-01)
 1. **_The War of the Worlds+_** by H.G. Wells; 190pp (2020-11-07)
 1. _Harry Potter and the Prisoner of Azkaban@^_ (Harry Potter, #3) by J.K. Rowling; 13:11 (2020-11-18)
+1. _Stealing the Crown+_ (A Guy Harford Mystery, #1) by T.P. Fielden; 320pp (2020-11-21)
