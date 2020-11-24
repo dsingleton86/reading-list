@@ -70,3 +70,4 @@
 1. _Harry Potter and the Prisoner of Azkaban@^_ (Harry Potter, #3) by J.K. Rowling; 13:11 (2020-11-18)
 1. _Stealing the Crown+_ (A Guy Harford Mystery, #1) by T.P. Fielden; 320pp (2020-11-21)
 1. _Eat and Run: My Unlikely Journey to Ultramarathon Greatness+_ by Scott Jurek, Steve Friedman (Editor); 260pp (2020-11-24)
+1. _The Call of Cthulhu_ by H.P. Lovecraft; 46pp (2020-11-24)
