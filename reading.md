@@ -71,3 +71,5 @@
 1. _Stealing the Crown+_ (A Guy Harford Mystery, #1) by T.P. Fielden; 320pp (2020-11-21)
 1. _Eat and Run: My Unlikely Journey to Ultramarathon Greatness+_ by Scott Jurek, Steve Friedman (Editor); 260pp (2020-11-24)
 1. _The Call of Cthulhu_ by H.P. Lovecraft; 46pp (2020-11-24)
+1. **_Ready Player Two_ (Ready Player One, #2)** by Ernest Cline; 384pp (2020-11-28)
+1. _Harry Potter and the Goblet of Fire@^_ (Harry Potter, #4) by J.K. Rowling; 22:17 (2020-11-29)
