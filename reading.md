@@ -89,3 +89,6 @@
 1. _How to Be Like Walt: Capturing the Disney Magic Every Day of Your Life@_ by Pat Williams; 16:16 (2020-12-18)
 1. _The Librarian of Auschitz: Based on the True Story of Dita Kraus_ by Antonio G. Iturbe; 432pp (2020-12-19)
 1. _The Innocent_ by Harlan Coben; 439pp (2020-12-31)
+1. _Daughter of Eden+_ (Dark Eden, #3) by Chris Beckett; 400pp (2021-01-09)
+1. _Star Wars: Tales from the Mos Eisley Cantina_ by Kevin J. Anderson; 359pp (2021-01-14)
+1. **_1984@_** by George Orwell; 12:19 (2021-01-30)
