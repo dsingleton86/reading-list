@@ -41,7 +41,7 @@
 1. The Dark Tower VI: Song of Susannah
 1. The Dark Tower VII: The Dark Tower
 1. The Colorado Kid
-1. Cell
+1. ~~Cell~~ (read: 2021-06-08)
 1. Lisey's Story
 1. Blaze (Published under pseudonym Richard Bachman)
 1. Duma Key
@@ -59,3 +59,5 @@
 1. The Outsider
 1. Elevation
 1. The Institute
+1. Later
+1. Billy Summers
