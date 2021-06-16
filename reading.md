@@ -94,3 +94,5 @@
 1. **_1984@_** by George Orwell; 12:19 (2021-01-30)
 1. _The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared_ by Jónas Jónasson; 396pp (2021-02-19)
 1. _Heaven's River+_ (Bobiverse, #4) by Dennis E. Taylor; 608pp (2021-04-06)
+1. _Cell_ by Stephen King; 399pp (2021-06-08)
+1. _A Change of Plans+_ by Dennis E. Taylor; 30pp (2021-06-16)
