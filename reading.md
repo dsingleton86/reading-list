@@ -1,3 +1,5 @@
+# Reading List [www.darren.me](https://www.darren.me/reading-list/)
+
 1. _Reinvent Yourself+_ by James Altucher; 378pp (2018-01-04)
 1. **_Dark Eden+_ (Dark Eden, #1)** by Chris Beckett; 400pp (2018-01-26)
 1. _Creativity For Sale: How I Made $1,000,000 Wearing T-Shirts and How You Can Turn Your Passion Into Profit, Too+_ by Jason SurfrApp; 224pp (2018-03-23)

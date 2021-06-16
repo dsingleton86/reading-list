@@ -1,3 +1,5 @@
+# Stephen King Reading List
+
 1. Carrie
 1. 'Salem's Lot
 1. The Shining
