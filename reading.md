@@ -98,4 +98,5 @@
 1. _Heaven's River+_ (Bobiverse, #4) by Dennis E. Taylor; 608pp (2021-04-06)
 1. _Cell_ by Stephen King; 399pp (2021-06-08)
 1. _A Change of Plans+_ by Dennis E. Taylor; 30pp (2021-06-16)
-1. _Off to be the Wizard@^_ (Magic 2.0, #1) by Scott Meyer (2021-06-17)
+1. _Off to be the Wizard@^_ (Magic 2.0, #1) by Scott Meyer; 10:45 (2021-06-17)
+1. _Spell or High Water@_ (Magic 2.0, #2) by Scott Meyer; 12:09 (2021-06-20)
