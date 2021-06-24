@@ -6,7 +6,6 @@ Taking inspiration from [Jamie Rubin's reading list](https://github.com/jamietr1
 ^ denotes a re-read
 @ indicates an audiobook
 + shows the book was digital (typically on Kindle)
-Items in **bold** are showcased as recommendations
 ```
 
 Only finished books are logged and they are recorded in the order they were completed.
