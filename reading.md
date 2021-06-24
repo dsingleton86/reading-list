@@ -100,3 +100,4 @@
 1. _A Change of Plans+_ by Dennis E. Taylor; 30pp (2021-06-16)
 1. _Off to be the Wizard@^_ (Magic 2.0, #1) by Scott Meyer; 10:45 (2021-06-17)
 1. _Spell or High Water@_ (Magic 2.0, #2) by Scott Meyer; 12:09 (2021-06-20)
+1. _25 Hours a Day: Going One More to Get What You Want+_ by Nick Bare; 125pp (2021-06-22)
