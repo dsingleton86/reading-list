@@ -11,7 +11,12 @@ Taking inspiration from [Jamie Rubin's reading list](https://github.com/jamietr1
 Only finished books are logged and they are recorded in the order they were completed.
 I am indicating re-reads, even if the previous ocassions are before this list began.
 
-I have also put together a list from The Guardian's '[The 100 Best Novels Written in English](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list)' which can be seen [here](top-100-guardian.md).
-And a list of Novel's by Stephen King, which can be seen [here](stephen-king.md), sourced from [Wikipedia](https://en.wikipedia.org/wiki/Stephen_King_bibliography#Novels).
+## Checklists
+
+I am using a number of checklists to keep tracking of my reading of certain authors works.  Here are my current lists so far:
+
+- Stephen King, which can be seen [here](stephen-king.md), sourced from [Wikipedia](https://en.wikipedia.org/wiki/Stephen_King_bibliography#Novels).
+
+- Discworld, [checklist](discworld.md), sourced from [terrypratchettbooks.com](https://www.terrypratchettbooks.com/discworld-characters/).
 
 Using these lists as inspiration, and marking books with a ~~strikethrough~~ when completed.
