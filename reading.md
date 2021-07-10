@@ -120,3 +120,5 @@
 1. _Out of Spite, Out of Mind_ (Magic 2.0, #5) by Scott Meyer;
 1. _Under the Dome_ by Stephen King;
 1. _Tell No One_ by Harlan Coben;
+1. _Ready Player Two_ (Ready Player One, #2) by Ernest Cline;
+1. _Project Hail Mary_ by Andy Weir;
