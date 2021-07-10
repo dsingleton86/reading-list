@@ -19,6 +19,6 @@ I am using a number of checklists to keep tracking of my reading of certain auth
 
 - Discworld, [checklist](discworld.md), sourced from [terrypratchettbooks.com](https://www.terrypratchettbooks.com/discworld-characters/).
 
-- Harlan Coben [checklist](harlan-coben.md), sourced from 
+- Harlan Coben [checklist](harlan-coben.md), sourced from [Wikipedia](https://en.wikipedia.org/wiki/Harlan_Coben#Bibliography).
 
 Using these lists as inspiration, and marking books with a `[x]` (checkbox) when completed.
