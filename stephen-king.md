@@ -1,4 +1,4 @@
-# Stephen King Reading List
+# Stephen King Checklist
 
 1. Carrie
 1. 'Salem's Lot

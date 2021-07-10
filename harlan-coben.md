@@ -1,4 +1,4 @@
-# Stephen King Reading List
+# Harlan Coben Checklist
 
 ## Myron Bolitar
 

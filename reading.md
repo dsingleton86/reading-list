@@ -105,6 +105,7 @@
 1. _Fight and Flight@_ (Magic 2.0, #4) by Scott Meyer; 10:26 (2021-07-09)
 1. _You Don't Need to be a Hero to Save the Planet+_ by Levi Hildebrand; 65pp (2021-07-10)
 1. _Diary of an AssCan+_ (The Martian, #0.5) by Andy Weir; 4pp (2021-07-10)
+1. _Dr. Horrible and Other Horrible Stories_ by Zack Whedon; 80pp (2021-07-10)
 
 ## currently reading
 
