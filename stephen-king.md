@@ -43,7 +43,7 @@
 1. The Dark Tower VI: Song of Susannah
 1. The Dark Tower VII: The Dark Tower
 1. The Colorado Kid
-1. ~~Cell~~ (read: 2021-06-08)
+1. [x] ~~Cell~~ (read: 2021-06-08)
 1. Lisey's Story
 1. Blaze (Published under pseudonym Richard Bachman)
 1. Duma Key
