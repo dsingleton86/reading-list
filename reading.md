@@ -105,3 +105,11 @@
 1. _Fight and Flight@_ (Magic 2.0, #4) by Scott Meyer; 10:26 (2021-07-09)
 1. _You Don't Need to be a Hero to Save the Planet+_ by Levi Hildebrand; 65pp (2021-07-10)
 1. _Diary of an AssCan+_ (The Martian, #0.5) by Andy Weir; 4pp (2021-07-10)
+
+## currently reading
+
+1. _The Black Prism+^_ (Lightbringer, #1) by Brent Weeks; 641pp
+1. _Ready Player One@^_ (Ready Player One, #1) by Ernest Cline; 15:40
+1. _Before They Were Giants: First Works from Science Fiction Greats_ by James L. Sutter; 227pp
+1. _Mistress_ by James Patterson, David Ellis; 410pp
+1. _Sherlock Holmes: The Definitive Collection@_ (Sherlock Holmes, #1-9) by Arthur Conan Doyle; 71:57
