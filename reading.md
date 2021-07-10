@@ -101,3 +101,6 @@
 1. _Off to be the Wizard@^_ (Magic 2.0, #1) by Scott Meyer; 10:45 (2021-06-17)
 1. _Spell or High Water@_ (Magic 2.0, #2) by Scott Meyer; 12:09 (2021-06-20)
 1. _25 Hours a Day: Going One More to Get What You Want+_ by Nick Bare; 125pp (2021-06-22)
+1. _An Unwelcome Quest@_ (Magic 2.0, #3) by Scott Meyer; 11:45 (2021-07-04)
+1. _Fight and Flight@_ (Magic 2.0, #4) by Scott Meyer; 10:26 (2021-07-09)
+1. _You Don't Need to be a Hero to Save the Planet+_ by Levi Hildebrand; 65pp (2021-07-10)
