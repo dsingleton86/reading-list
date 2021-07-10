@@ -19,4 +19,4 @@ I am using a number of checklists to keep tracking of my reading of certain auth
 
 - Discworld, [checklist](discworld.md), sourced from [terrypratchettbooks.com](https://www.terrypratchettbooks.com/discworld-characters/).
 
-Using these lists as inspiration, and marking books with a ~~strikethrough~~ when completed.
+Using these lists as inspiration, and marking books with a ~~strikethrough~~ and a [x] checkbox when completed.
