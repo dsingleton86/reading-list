@@ -19,10 +19,14 @@ My `up next?` list (at the end of [my reading list](reading.md)) may not stay.  
 
 I am using a number of checklists to keep tracking of my reading of certain authors works.  Here are my current lists so far:
 
-- Stephen King, which can be seen [here](stephen-king.md), sourced from [Wikipedia](https://en.wikipedia.org/wiki/Stephen_King_bibliography#Novels).
+- Stephen King, [checklist](stephen-king.md), sourced from [Wikipedia](https://en.wikipedia.org/wiki/Stephen_King_bibliography#Novels).
 
 - Discworld, [checklist](discworld.md), sourced from [terrypratchettbooks.com](https://www.terrypratchettbooks.com/discworld-characters/).
 
 - Harlan Coben [checklist](harlan-coben.md), sourced from [Wikipedia](https://en.wikipedia.org/wiki/Harlan_Coben#Bibliography).
+
+- The Wheel of Time [checklist](wheel-of-time.md)
+
+- Brandon Sanderson [checklist](brandon-sanderson.md)
 
 Using these lists as inspiration, and marking books with a `[x]` (checkbox) when completed.
