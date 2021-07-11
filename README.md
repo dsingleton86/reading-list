@@ -29,4 +29,4 @@ I am using a number of checklists to keep tracking of my reading of certain auth
 
 - Brandon Sanderson [checklist](brandon-sanderson.md)
 
-Using these lists as inspiration, and marking books with a `[x]` (checkbox) when completed.
+Using these lists as reading 'inspiration', and marking books with a `[x]` (checkbox) when completed.
