@@ -107,11 +107,11 @@
 1. _Diary of an AssCan+_ (The Martian, #0.5) by Andy Weir; 4pp (2021-07-10)
 1. _Dr. Horrible and Other Horrible Stories_ by Zack Whedon; 80pp (2021-07-10)
 1. _Ready Player One@^_ (Ready Player One, #1) by Ernest Cline; 15:40 (2021-07-11)
+1. _Before They Were Giants: First Works from Science Fiction Greats_ by James L. Sutter; 227pp (2021-07-11)
 
 ## currently reading
 
 1. _The Black Prism+^_ (Lightbringer, #1) by Brent Weeks; 641pp
-1. _Before They Were Giants: First Works from Science Fiction Greats_ by James L. Sutter; 227pp
 1. _Mistress_ by James Patterson, David Ellis; 410pp
 1. _Sherlock Holmes: The Definitive Collection@_ (Sherlock Holmes, #1-9) by Arthur Conan Doyle; 71:57
 1. _Out of Spite, Out of Mind@_ (Magic 2.0, #5) by Scott Meyer;
