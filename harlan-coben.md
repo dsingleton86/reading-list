@@ -28,7 +28,7 @@
 1. Gone for Good
 1. No Second Chance
 1. Just One Look
-1. [x] _The Innocent (read: 2020-12-31)_
+1. [x] _~~The Innocent (read: 2020-12-31)~~_
 1. The Woods
 1. Hold Tight
 1. Caught
