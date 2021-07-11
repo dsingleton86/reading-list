@@ -1,6 +1,5 @@
 # Brandon Sanderson Checklist
 
-## Standalone Novels
 
 1. Elantris
 1. Warbreaker
