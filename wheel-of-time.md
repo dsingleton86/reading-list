@@ -2,8 +2,7 @@
 
 ## Robert Jordan
 
-0.\ New Spring (prequel)
-
+0. New Spring (prequel)
 1. The Eye of the World
 1. The Great Hunt
 1. The Dragon Reborn
