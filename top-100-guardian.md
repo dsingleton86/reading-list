@@ -71,7 +71,7 @@ a list from The Guardian's '[The 100 Best Novels Written in English](https://www
 67. All the King’s Men by Robert Penn Warren (1946)
 68. Under the Volcano by Malcolm Lowry (1947)
 69. The Heat of the Day by Elizabeth Bowen (1948)
-70. [x] _Nineteen Eighty-Four by George Orwell (1949) (read: 2021-01-30)_
+70. [x] _~~Nineteen Eighty-Four by George Orwell (1949)~~ (read: 2021-01-30)_
 71. The End of the Affair by Graham Greene (1951)
 72. The Catcher in the Rye by JD Salinger (1951)
 73. The Adventures of Augie March by Saul Bellow (1953)
