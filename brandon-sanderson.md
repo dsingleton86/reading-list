@@ -1,9 +1,15 @@
 # Brandon Sanderson Checklist
 
+## Elantris
 
 1. Elantris
+1. The Hope of Elantris (novella)
+1. The Emperor's Soul (same planet, different story)
+
+## Warbreaker
+
 1. Warbreaker
-1. The Emperor's Soul
+1. Nightblood (not yet released)
 
 ## Mistborn
 
