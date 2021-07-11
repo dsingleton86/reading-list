@@ -114,10 +114,10 @@
 1. _Before They Were Giants: First Works from Science Fiction Greats_ by James L. Sutter; 227pp
 1. _Mistress_ by James Patterson, David Ellis; 410pp
 1. _Sherlock Holmes: The Definitive Collection@_ (Sherlock Holmes, #1-9) by Arthur Conan Doyle; 71:57
+1. _Out of Spite, Out of Mind@_ (Magic 2.0, #5) by Scott Meyer;
 
 ## up next?
 
-1. _Out of Spite, Out of Mind_ (Magic 2.0, #5) by Scott Meyer;
 1. _Under the Dome_ by Stephen King;
 1. _Tell No One_ by Harlan Coben;
 1. _Ready Player Two_ (Ready Player One, #2) by Ernest Cline;
