@@ -2,18 +2,18 @@
 
 ## Robert Jordan
 
-0. New Spring (prequel)
-1. The Eye of the World
-1. The Great Hunt
-1. The Dragon Reborn
-1. The Shadow Rising
-1. The Fires of Heaven
-1. Lord of Chaos
-1. A Crown of Swords
-1. The Path of Daggers
-1. Winter's Heart
-1. Crossroads of Twilight
-1. Knife of Dreams
+00. New Spring (prequel)
+00. The Eye of the World
+00. The Great Hunt
+00. The Dragon Reborn
+00. The Shadow Rising
+00. The Fires of Heaven
+00. Lord of Chaos
+00. A Crown of Swords
+00. The Path of Daggers
+00. Winter's Heart
+00. Crossroads of Twilight
+00. Knife of Dreams
 
 ## Brandon Sanderson
 
